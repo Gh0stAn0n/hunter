@@ -1,10 +1,21 @@
+<p align="center">
+   </a>
+      <a href="https://github.com/gh0st-anonymous/analyzer">
+      <img src="https://img.shields.io/badge/Version-1.0.0-darkgreen">
+        <img src="https://img.shields.io/badge/Release%20Date-april%202022-purple">
+  <img src="https://shields.io/badge/Bash-100%25-066da5">
+  <img src="https://shields.io/badge/Platform-Linux-darkred">
+    </a>
+  </p>
+</p>
+
 # About 'hunter'
 
 hunter is a bash script that analyze automatically every suspicious networks live info activity's such as IPs, URLs, Domains and more using:
 
 Automater and VirusTotal.
 
-# Possibility and Capability
+### Possibility and Capability
 
 > ADVANTAGES:
 
@@ -29,17 +40,17 @@ Automater and VirusTotal.
 
 - Automater scans are very slow.
 
-# 'hunter' Project
+### 'hunter' Project
 
 a [project](https://github.com/gh0st-anonymous/hunter/files/9894773/project.pdf) made by [ThinkCyber.](https://www.thinkcyber.co.il/)
 
-# Video Demonstration
+### Video Demonstration
 
 Be Aware: the script could be different from the video since he got upgraded.
 
 [![image](https://user-images.githubusercontent.com/102325071/198856530-b6c9b4e6-999f-4a3b-ba53-bea8d2158bb3.jpg)](https://www.youtube.com/watch?v=ShjDHLr2tZM)
 
-# Script Usage
+### Script Usage
 
 just launch the script by typing:
 
