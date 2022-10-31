@@ -31,9 +31,9 @@ Automater and VirusTotal.
 
 - the required dependencies and libraries will be scanned and any missing packages will be installed automatically.
 
-- easy to use since explanations are written. ([sudo] bash / ./hunter -I)
+- use -i for info, for the script resume, [sudo] bash  / ./hunter -i
 
-- if you need help for the script usage, type [sudo] bash / ./hunter -h, for more details about the options.
+- use -h for help, for the script usage, type [sudo] bash  / ./hunter -h
 
 - help and info menu doesn't require sudo privileges.
 
@@ -54,11 +54,11 @@ Be Aware: the script could be different from the video since he got upgraded.
 
 ### Script Usage
 
-just launch the script by typing:
+launch the script by typing:
 
 ![pic](https://user-images.githubusercontent.com/102325071/198970600-7e97f9da-5704-4b2c-b831-8240417b6b5f.png)
 
--h (stand for help) for more flags options.
+-h (stand for help) for more info about the flags option.
 
 -I (stand for Info) for more info about the script.
 
