@@ -56,9 +56,9 @@ just launch the script by typing:
 
 ![pic](https://user-images.githubusercontent.com/102325071/198970600-7e97f9da-5704-4b2c-b831-8240417b6b5f.png)
 
-[ -h (stand for help) for more flags options]
+-h (stand for help) for more flags options.
 
-[ -I (stand for Info) for more info about the script]
+-I (stand for Info) for more info about the script.
 
 ### Download
 
