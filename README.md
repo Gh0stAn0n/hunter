@@ -58,8 +58,6 @@ just launch the script by typing:
 
 ### Download
 
-from github: 
+from [zip](https://github.com/gh0st-anonymous/hunter/files/9900085/hunter.zip) file or from github: 
 
     git clone https://github.com/gh0st-anonymous/hunter
-
-from [zip](https://github.com/gh0st-anonymous/hunter/files/9900085/hunter.zip) file
