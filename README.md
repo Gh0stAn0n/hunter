@@ -23,6 +23,8 @@ Automater and VirusTotal.
 
 - will create an 'output-info file' automatically if the IP (for ex) have been stocked in the googledb as 'Dangerous'.
 
+- will save the user general scanning in a statistics file.
+
 - check if the new supposed output file or directory is already created. (instead of :: error cant write on 'file.txt' because 'file.txt' already exist :: you'll get file.2.txt or dir.2 then .3, .4, ect...)
 
 - check for every errors possible. (correct path, correct answers as input, if the ip choosen is truly a correct ip)
