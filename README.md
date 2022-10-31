@@ -63,4 +63,5 @@ just launch the script by typing:
 ### Download
 
 from [zip](https://github.com/gh0st-anonymous/hunter/files/9900085/hunter.zip) file or from github:
-    git clone https://github.com/gh0st-anonymous/hunter
+
+git clone https://github.com/gh0st-anonymous/hunter
