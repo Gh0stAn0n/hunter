@@ -11,7 +11,7 @@
   </p>
 </p>
 
-hunter is a bash script that analyze automatically every suspicious networks live info activity's such as IPs, URLs, Domains and more using:
+hunter is a bash script that analyze automatically every suspicious networks live info activity's such as IPs, URLs, Domains, PCAP files and more using:
 
 [Automater](https://github.com/1aN0rmus/TekDefense-Automater), [VirusTotal](https://github.com/VirusTotal/vt-cli) and [tshark](https://www.kali.org/tools/wireshark/#tshark-1).
 
