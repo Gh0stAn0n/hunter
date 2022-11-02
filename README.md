@@ -13,7 +13,7 @@
 
 hunter is a bash script that analyze automatically every suspicious networks live info activity's such as IPs, URLs, Domains and more using:
 
-Automater and VirusTotal.
+[Automater](https://github.com/1aN0rmus/TekDefense-Automater), [VirusTotal](https://github.com/VirusTotal/vt-cli) and [tshark](https://www.kali.org/tools/wireshark/#tshark-1).
 
 ### Possibility and Capability
 
@@ -44,7 +44,7 @@ Automater and VirusTotal.
 
 ### 'hunter' Project
 
-a [project](https://github.com/gh0st-anonymous/hunter/files/9894773/project.pdf) made by [ThinkCyber.](https://www.thinkcyber.co.il/)
+a [project](https://github.com/gh0st-anonymous/hunter/files/9894773/project.pdf) made by [ThinkCyber](https://www.thinkcyber.co.il/).
 
 ### Video Demonstration
 
