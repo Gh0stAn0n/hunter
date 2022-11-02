@@ -31,9 +31,9 @@ hunter is a bash script that analyze automatically every suspicious networks liv
 
 - the required dependencies and libraries will be scanned and any missing packages will be installed automatically.
 
-- use -i for info, for the script resume, type [sudo] bash  / ./hunter -i
+- use -i for info, for the script resume type [sudo] bash  / ./hunter -i
 
-- use -h for help, for the script usage, type [sudo] bash  / ./hunter -h
+- use -h for help, for the script usage type [sudo] bash  / ./hunter -h
 
 - help and info menu doesn't require sudo privileges.
 
