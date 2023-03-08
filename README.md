@@ -2,7 +2,7 @@
 
 <p align="center">
    </a>
-      <a href="https://github.com/gh0st-anonymous/analyzer">
+      <a href="https://github.com/Gh0stAn0n/analyzer">
       <img src="https://img.shields.io/badge/Version-1.0.0-darkgreen">
         <img src="https://img.shields.io/badge/Release%20Date-may%202022-purple">
   <img src="https://shields.io/badge/Bash-100%25-066da5">
@@ -31,10 +31,6 @@ hunter is a bash script that analyze automatically every suspicious networks liv
 
 - the required dependencies and libraries will be scanned and any missing packages will be installed automatically.
 
-- use -i for info, for the script resume type [sudo] bash  / ./hunter -i
-
-- use -h for help, for the script usage type [sudo] bash  / ./hunter -h
-
 - help and info menu doesn't require sudo privileges.
 
 
@@ -44,7 +40,7 @@ hunter is a bash script that analyze automatically every suspicious networks liv
 
 ### 'hunter' Project
 
-a [project](https://github.com/gh0st-anonymous/hunter/files/9894773/project.pdf) made by [ThinkCyber](https://www.thinkcyber.co.il/).
+a [project](https://github.com/Gh0stAn0n/hunter/files/9894773/project.pdf) made by [ThinkCyber](https://www.thinkcyber.co.il/).
 
 ### Video Demonstration
 
@@ -56,7 +52,9 @@ Be Aware: the script could be different from the video since he got upgraded.
 
 launch the script by typing:
 
-![pic](https://user-images.githubusercontent.com/102325071/198970600-7e97f9da-5704-4b2c-b831-8240417b6b5f.png)
+└─$ sudo bash hunter.sh
+
+└─$ sudo ./hunter
 
 -h (stand for help) for more info about the flags option.
 
@@ -64,6 +62,6 @@ launch the script by typing:
 
 ### Download
 
-from [zip](https://github.com/gh0st-anonymous/hunter/files/9900085/hunter.zip) file or from github:
+from [zip](https://github.com/Gh0stAn0n/hunter/files/9900085/hunter.zip) file or from github:
 
-    git clone https://github.com/gh0st-anonymous/hunter
+    git clone https://github.com/Gh0stAn0n/hunter
