@@ -19,6 +19,8 @@ hunter is a bash script that analyze automatically every suspicious networks liv
 
 > ADVANTAGES:
 
+- help and info menu doesn't require sudo privileges.
+
 - can detect malwares, viruses, suspicious activity from pcap file such as MITM or related dangerous IPs used by bots.
 
 - will create an 'output-info file' automatically if the IP (for ex) have been stocked in the googledb as 'Dangerous'.
@@ -30,9 +32,6 @@ hunter is a bash script that analyze automatically every suspicious networks liv
 - check for every errors possible. (correct path, correct answers as input, if the ip choosen is truly a correct ip)
 
 - the required dependencies and libraries will be scanned and any missing packages will be installed automatically.
-
-- help and info menu doesn't require sudo privileges.
-
 
 > DISADVANTAGES:
 
